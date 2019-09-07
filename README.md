@@ -17,7 +17,7 @@ The project is a stock exchange trading registration system that is being develo
 ![Project Image](https://github.com/ccarvofficial/javascriptcourseproject-framenegotiations/blob/master/client/images/project.png)
 
 ## Cerificate
-
+![Certificate](https://github.com/ccarvofficial/javascriptcourseproject-framenegotiations/blob/master/client/images/certificate.png)
 
 ---
 ---
